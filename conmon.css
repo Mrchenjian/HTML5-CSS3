@@ -1,0 +1,43 @@
+.text-center {
+    text-align: center !important;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+/* 
+seo 需要隐藏文本 
+*/
+.invisible {    
+    visibility: hidden;
+}
+
+.text-hide {
+    font: 0/0 ;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    border: 0;
+}
+.pull-right {
+    float: right !important;
+}
+
+.pull-left {
+    float: right !important;
+}
+
+text-right {
+    text-align: right !important;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
